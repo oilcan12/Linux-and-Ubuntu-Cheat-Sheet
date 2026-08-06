@@ -33,7 +33,7 @@ The focus is on the commands you actually reach for, explained briefly and accur
 
 | File | Description |
 |------|-------------|
-| `Linux-Ubuntu-Command-Reference-Improved.pdf` | Dark edition (screen) |
+| `Linux-Ubuntu-Command-Reference-Dark.pdf` | Dark edition (screen) |
 | `Linux-Ubuntu-Command-Reference-Light.pdf` | Light edition (print) |
 
 ---
